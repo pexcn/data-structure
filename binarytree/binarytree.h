@@ -1,0 +1,8 @@
+//
+// Created by pexcn on 2018-03-01.
+//
+
+#ifndef DATA_STRUCTURE_BINARYTREE_H
+#define DATA_STRUCTURE_BINARYTREE_H
+
+#endif // DATA_STRUCTURE_BINARYTREE_H
